@@ -1,1 +1,2 @@
-# euphorus1
+I am a programmer with strong focus on C for realibility and simplicity. I dabble on other languages as well like C++, Python and C#. I love breaking stuff, whether it is in video games or code. The more I break it, the more I understand what is going wrong with it. 
+For my development I've switched from Windows to Linux (Fedora 42) with Neovim. I'm still learning about the potentials to maximize my usage in Linux. 
